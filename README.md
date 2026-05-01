@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/upyjnm52lworig22?svg=true)](https://ci.appveyor.com/project/ElenMm/rest-post-request-master)
